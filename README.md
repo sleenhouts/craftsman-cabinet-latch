@@ -1,10 +1,10 @@
 3D printable front-mounted latch based on one found on a built-in cabinet in a 1909 Craftsman house.
 
 # Hardware needed
-2 #5 screws (originals were 1/2" oval wood screws)
-2 #6 screws (originals were 13/20" oval wood screws)
-1 #6 1/4" flat head machine screw
-1 #6-32 hex machine screw nut
+2 #5 screws (originals were 1/2" oval wood screws)  
+2 #6 screws (originals were 13/20" oval wood screws)  
+1 #6 1/4" flat head machine screw  
+1 #6-32 hex machine screw nut  
 1 1" spring (I used item no. 1986K53 from McMaster-Carr. Up to 0.2" diameter should work.)
 
 # Printing

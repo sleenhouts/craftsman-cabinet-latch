@@ -11,4 +11,4 @@
 I got this printed at the library in PLA with 25% infill. Files are not in any particular orientation good for printing. I recommend putting the base on its side.
 
 # Assembly
-See inside.jpg to see how the parts fit together. I put a bit of glue in the hole in the handle before inserting the pusher peg (through the base). You could glue the nut into place or fuse with a soldering iron, but since it'll be held in place once the latch is screwed on the door I didn't bother.
+See [inside.jpg](https://github.com/sleenhouts/craftsman-cabinet-latch/blob/main/inside.jpg) to see how the parts fit together. I put a bit of glue in the hole in the handle before inserting the pusher peg (through the base). You could glue the nut into place or fuse with a soldering iron, but since it'll be held in place once the latch is screwed on the door I didn't bother.
